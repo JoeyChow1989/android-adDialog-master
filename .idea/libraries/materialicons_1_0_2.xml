@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="materialicons-1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.malinskiy/materialicons/1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.malinskiy/materialicons/1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.malinskiy/materialicons/1.0.2/f92e016fa0c4bc8f2d182f8fc707a02c2d182743/materialicons-1.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.malinskiy/materialicons/1.0.2/f92e016fa0c4bc8f2d182f8fc707a02c2d182743/materialicons-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
